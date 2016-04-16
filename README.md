@@ -1,2 +1,5 @@
 # angularjs-side-projects
-All side projects related to AngularJS 1.x and 2.x
+
+###Cost calculator for various types of lightbulbs in a property###
+
+myCalculator is a simple AngularJS tool to get your feet wet with Angular. 
